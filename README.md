@@ -1,1 +1,1 @@
-# Java group project for ENSF409 in 2nd year at University of Calgary
+# Java group project, 2nd year at University of Calgary
